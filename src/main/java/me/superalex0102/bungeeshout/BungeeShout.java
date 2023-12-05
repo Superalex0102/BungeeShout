@@ -15,7 +15,6 @@ import net.md_5.bungee.config.YamlConfiguration;
 
 public class BungeeShout extends Plugin implements Listener {
     private static BungeeShout pl;
-    public static ServerInfo hub;
     public static Configuration config;
     public static ConfigurationProvider configp;
     public static File configfile;
